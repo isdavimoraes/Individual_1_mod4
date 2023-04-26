@@ -1,3 +1,8 @@
-<iframe src=https://nbviewer.org/github/isdavimoraes/Individual_1_mod4/blob/main/projeto_indi_mod4.ipynb width="100%" height="500px"></iframe>
 
+# Foi realizado um aquivo no Google Colab.
+##  Clicke no link para ser direcionado a ele
+
+
+
+- [Projeto Individual 1 do modulo 4](https://raw.githubusercontent.com/isdavimoraes/Individual_1_mod4/main/projeto_indi_mod4.ipynb)
 
